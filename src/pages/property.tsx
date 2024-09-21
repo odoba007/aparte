@@ -92,7 +92,7 @@ export default function PropertyPage() {
 
 <br /><br />
           <h2>Reserve this apartment</h2>
-          <small>Note: To reserve this apartment, you have to pay a security deposit of $120</small>
+          <small>Note: To reserve this apartment, you have to pay an application fee of $120</small>
           <div className="book-down">
           <form method="POST" onSubmit={handleSubmit}>
             <div className="input-field">
