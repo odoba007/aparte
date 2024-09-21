@@ -1,0 +1,28 @@
+.book-down{
+    width: 100%;
+    max-width: 500px;
+}
+
+.book-down, .book-down label, input{
+    display: block;
+}
+
+.book-down label, input{
+    width: 100%;
+}
+
+.book-down input{
+    padding: 5px;
+    font-size: 18px;
+    border: thin solid gray !important;
+    border-radius: none !important;
+}
+.book-down label{
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.book-down .input-field{
+    margin: 10px 0;
+}
